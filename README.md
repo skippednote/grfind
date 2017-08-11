@@ -19,7 +19,7 @@ import (
 )
 
 func main() {
-	gr := grfind.GRfindInfo{
+	gr := grfind.GRfind{
 		Key:    "GoodReads Key",
 		Secret: "GoodReads Secret",
 	}
